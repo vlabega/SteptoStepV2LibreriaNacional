@@ -129,7 +129,7 @@
 	    // https://mvnrepository.com/artifact/io.cucumber/cucumber-java
         implementation group: 'io.cucumber', name: 'cucumber-java', version: '7.12.1'
 	       
-	    io.cucumber.core.cli.Main
+	    //io.cucumber.core.cli.Main Retirar la libreria
 	    
 	   // https://mvnrepository.com/artifact/io.restassured/rest-assured
        implementation 'io.restassured:rest-assured:4.0.0'
